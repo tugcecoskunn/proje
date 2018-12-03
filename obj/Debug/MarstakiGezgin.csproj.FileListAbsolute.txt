@@ -1,0 +1,7 @@
+C:\Users\tugce.coskun\source\repos\MarstakiGezgin\MarstakiGezgin\obj\Debug\MarstakiGezgin.csprojAssemblyReference.cache
+C:\Users\tugce.coskun\source\repos\MarstakiGezgin\MarstakiGezgin\obj\Debug\MarstakiGezgin.csproj.CoreCompileInputs.cache
+C:\Users\tugce.coskun\source\repos\MarstakiGezgin\MarstakiGezgin\bin\Debug\MarstakiGezgin.exe.config
+C:\Users\tugce.coskun\source\repos\MarstakiGezgin\MarstakiGezgin\bin\Debug\MarstakiGezgin.exe
+C:\Users\tugce.coskun\source\repos\MarstakiGezgin\MarstakiGezgin\bin\Debug\MarstakiGezgin.pdb
+C:\Users\tugce.coskun\source\repos\MarstakiGezgin\MarstakiGezgin\obj\Debug\MarstakiGezgin.exe
+C:\Users\tugce.coskun\source\repos\MarstakiGezgin\MarstakiGezgin\obj\Debug\MarstakiGezgin.pdb
